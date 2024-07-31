@@ -1,0 +1,15 @@
+LavaRaiser/
+├── build.gradle
+├── settings.gradle
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── example/
+│   │   │           └── lavaraiser/
+│   │   │               └── LavaRaiser.java
+│   │   └── resources/
+│   │       └── plugin.yml
+LavaRaiser.java
+│   │   └── resources/
+│   │       └── plugin.yml
